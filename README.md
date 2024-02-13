@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bassem-ammar&label=Profile%20views&color=0e75b6&style=flat" alt="bassem-ammar" /> </p>
 
-- 🔭 I’m currently working on **E-commerce**
+- 🔭 I’m currently working on **E-commerce web site **
 
 - 🌱 I’m currently learning **Angular**
 
